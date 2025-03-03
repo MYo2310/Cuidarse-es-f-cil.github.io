@@ -20,6 +20,7 @@
     <title>Bienvenido a Cuidarse es Fácil</title>
     <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/#Inicio</link>
     <description>Aqui encontraras técnicas de ejercicios, rutinas y consejos de alimentacion.</description>
+    <guid>articulo-0001</guid>
   </item>
   <item>
     <title>Ejercicios y Técnicas</title>
@@ -30,16 +31,19 @@
     <title>Rutinas</title>
     <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/#Rutinas</link>
     <description>Rutinas de cardio y fuerza, yoga y flexibilidad, y entrenamiento de alta intensidad.</description>
+     <guid>articulo-0002</guid>
   </item>
   <item>
     <title>Alimentación</title>
     <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/#Alimentacion</link>
     <description>Consejos y recetas para una alimentacion saludable.</description>
+     <guid>articulo-0003</guid>
   </item>
   <item>
     <title>Contacto</title>
     <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/#Contacto</link>
     <description>Formulario de contacto</description>
+     <guid>articulo-0004</guid>
   </item>
 </channel>
 </rss>
