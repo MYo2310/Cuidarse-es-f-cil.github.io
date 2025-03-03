@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!-- La parte fija del fichero xml correspondiente a un rss -->
+<rss version="2.0">
+<channel>
+  <title>Cuidarse es Fácil</title>
+  <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/</link>
+  <description>Descubre lo fácil que es cuidarse</description>
+  <!-- La parte fija opcional -->
+  <language>es-ES</language>
+  <image>
+    <title>Logo_Web_cuidarse_es_fácil.png</title>
+    <url>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/</url>
+    <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/</link>
+    <width>90</width>
+    <height>36</height>
+  </image>
+  <!-- La parte variable, la que corresponde a cada noticia o ítem -->
+  <item>
+    <title>Bienvenido a Cuidarse es Fácil</title>
+    <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/#Inicio</link>
+    <description>Aquí encontrarás técnicas de ejercicios, rutinas y consejos de alimentación.</description>
+  </item>
+  <item>
+    <title>Ejercicios y Técnicas</title>
+    <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/#Tecnicas</link>
+    <description>Aquí aprenderás a realizar correctamente las técnicas de los ejercicios, para no lesionarte.</description>
+  </item>
+  <item>
+    <title>Rutinas</title>
+    <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/#Rutinas</link>
+    <description>Rutinas de cardio y fuerza, yoga y flexibilidad, y entrenamiento de alta intensidad.</description>
+  </item>
+  <item>
+    <title>Alimentación</title>
+    <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/#Alimentación</link>
+    <description>Consejos y recetas para una alimentación saludable.</description>
+  </item>
+  <item>
+    <title>Contacto</title>
+    <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/#Contacto</link>
+    <description>Formulario de contacto</description>
+  </item>
+</channel>
+</rss>
