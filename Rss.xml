@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <!-- La parte fija del fichero xml correspondiente a un rss -->
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Cuidarse es Fácil</title>
   <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/</link>
   <description>Descubre lo fácil que es cuidarse</description>
   <!-- La parte fija opcional -->
   <language>es-ES</language>
+  <atom:link href="https://myo2310.github.io/Cuidarse-es-f-cil.github.io/Rss.xml" rel="self" type="application/rss+xml" />
   <image>
-    <title>Logo_Web_cuidarse_es_fácil.png</title>
-    <url>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/</url>
+    <title>Cuidarse es Fácil</title>
+    <url>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/css/Logo_Web_cuidarse_es_fácil.png</url>
     <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/</link>
     <width>90</width>
     <height>36</height>
