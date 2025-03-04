@@ -13,37 +13,40 @@
     <url>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/css/Logo_Web_cuidarse_es_facil.png</url>
     <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/</link>
     <width>90</width>
-    <height>36</height>
+    <height>36</height> 
+    <guid isPermaLink="false">artículo 002 en example.com</guid>
   </image>
   <!-- La parte variable, la que corresponde a cada noticia o ítem -->
   <item>
     <title>Bienvenido a Cuidarse es Fácil</title>
     <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/#Inicio</link>
     <description>Aqui encontraras técnicas de ejercicios, rutinas y consejos de alimentacion.</description>
-    <guid>articulo-0001</guid>
+    <guid isPermaLink="false">artículo 003 en example.com</guid>
   </item>
   <item>
     <title>Ejercicios y Técnicas</title>
     <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/#Tecnicas</link>
     <description>Aqui aprenderas a realizar correctamente las tecnicas de los ejercicios, para no lesionarte.</description>
+    <guid isPermaLink="false">artículo 004 en example.com</guid>
   </item>
   <item>
     <title>Rutinas</title>
     <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/#Rutinas</link>
     <description>Rutinas de cardio y fuerza, yoga y flexibilidad, y entrenamiento de alta intensidad.</description>
-     <guid>articulo-0002</guid>
+    <guid isPermaLink="false">artículo 005 en example.com</guid>
+   
   </item>
   <item>
     <title>Alimentación</title>
     <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/#Alimentacion</link>
     <description>Consejos y recetas para una alimentacion saludable.</description>
-     <guid>articulo-0003</guid>
+    <guid isPermaLink="false">artículo 006 en example.com</guid>
   </item>
   <item>
     <title>Contacto</title>
     <link>https://myo2310.github.io/Cuidarse-es-f-cil.github.io/#Contacto</link>
     <description>Formulario de contacto</description>
-     <guid>articulo-0004</guid>
+    <guid isPermaLink="false">artículo 007 en example.com</guid>
   </item>
 </channel>
 </rss>
