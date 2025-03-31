@@ -164,20 +164,29 @@ footer a {
 /* TAMAÑO PANTALLAS: moviles 480px,tables: 768, ordenador: 1279, otros dispositivos: +1280*/
 /*Hacemos responsivo el texto de la página web*/
 
+/* TAMAÑO PANTALLAS: moviles 480px,tables: 768, ordenador: 1279, otros dispositivos: +1280*/
+/*Hacemos responsivo el texto de la página web*/
+
 @media screen and (max-width: 480px){ /*móvil*/
   h1{
-    font-size: 2.5rem;
-  }
-  h2{
     font-size: 2rem;
   }
-  h3{
+  h2{
     font-size: 1.5rem;
+  }
+  h3{
+    font-size: 1.3rem;
   }
   p{
     font-size: 1rem;
   }
+#Alimentación {
+  width: 96%;
+  font-size: 0.8rem;
+  padding: 5px;
 
+
+}
 }
 
 @media screen and (max-width: 768px){  /*tablet*/
@@ -217,7 +226,7 @@ footer a {
     font-size: 3.5rem;
   }
   h2{
-    font-size: 3rem;
+    font-size: 2.8rem;
   }
   h3{
     font-size: 2.5rem;
@@ -301,11 +310,28 @@ input, textarea, label {
     padding: 10px 10px;
   }
 }
+
+@media screen and (max-width: 480px) {
+  table{
+    overflow-x: auto;
+    width: 100%;
+    font-size: 0.7rem;
+    word-wrap: break-word;
+
+
+  }
+  table tr th td {
+   padding:5rem;
+    text-align: center;
+
+  }
+}
 /* medida query para el footer */
 @media screen and (max-width: 480px) {
   footer{
-    width: 85%;
-    padding: 10px 20px; /*reduce el espacio interno*/
+    width: 100%;
+    padding: 10px; /*reduce el espacio interno*/
+    margin: initial ;
     text-align:left;
 
   }
@@ -317,11 +343,13 @@ input, textarea, label {
     display: inline-block;
   }
   footer p {
-    width: 60%;
+    width: 90%;
 
     font-size: 1rem;
-    padding: 10px 15px;
+    padding: 10px ;
+    word-break:break-word;
     display: inline-block;
+    margin: 10px auto;
   }
 
 }
